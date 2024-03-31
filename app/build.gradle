@@ -8,7 +8,11 @@ android {
     compileSdk 32
 
     defaultConfig {
+<<<<<<< HEAD
         applicationId "com.android.mvvmtest"
+=======
+        applicationId "com.store.mvvmtest"
+>>>>>>> mvvm-full-initial
         minSdk 21
         targetSdk 32
         versionCode 1

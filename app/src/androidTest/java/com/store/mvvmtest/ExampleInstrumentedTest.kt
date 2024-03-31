@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.cheezycode.mvvmtest", appContext.packageName)
+        assertEquals("com.store.mvvmtest", appContext.packageName)
     }
 }
